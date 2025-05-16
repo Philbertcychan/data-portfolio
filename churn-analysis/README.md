@@ -1,26 +1,25 @@
-📊 Project Title: Churn Analysis for Subscription App
+# 📊 Project Title: Churn Analysis for Subscription App
 
-🧠 Problem Statement
+## 🧠 Problem Statement
 Understand what drives user churn in a subscription-based mobile app, and recommend interventions.
 
-📁 Dataset
+## 📁 Dataset
 Public data from [Kaggle link]. Contains user sessions, cancellations, and feature usage.
 
-🔍 Methodology
+## 🔍 Methodology
 - Cleaned and filtered session data
 - Created churn label and activity features
 - Segmented by acquisition channel and plan type
 - Visualized churn rates over time
 
-📈 Key Insights
-- Users with fewer than 3 sessions in their first 7 days churn at 65%
-- Monthly subscribers on mobile churn twice as often as desktop users
+## 📈 Key Insights
+🚧 This project is in progress. Currently working on the analysis phase.
 
-💡 Recommendation
-Improve early activation and consider a 2-week trial to increase early engagement.
+## 💡 Recommendation
+🚧 This project is in progress. Currently working on the analysis phase.
 
-🛠️ Tools Used
+## 🛠️ Tools Used
 Python, pandas, matplotlib, seaborn
 
-🔗 Notebook
+## 🔗 Notebook
 [View on Kaggle](your-kaggle-link) or [View notebook](link-to-ipynb)
