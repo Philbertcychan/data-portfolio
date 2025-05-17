@@ -1,7 +1,7 @@
-# 📊 Project Title: Churn Analysis for Subscription App
+# 📊 Project Title: Product Performance Dashboard
 
 ## 🧠 Problem Statement
-Understand what drives user churn in a subscription-based mobile app, and recommend interventions.
+Track the performance of 3–4 financial products (e.g., TFSA, RRSP, GIC, Savings Account) over time and by customer segments (age group, region, etc.), and provide business insights.
 
 ## 📁 Dataset
 Public data from [Kaggle link]. Contains user sessions, cancellations, and feature usage.
